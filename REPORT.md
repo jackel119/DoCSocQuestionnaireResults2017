@@ -7,24 +7,35 @@ Anyways, we'd just like to take this chance to show you the results and talk abo
 
 # Table of Contents
 - #### The split between Academic and Social Events 
-- #### Your Favourite Events
-- #### Your Not-so-Favourite Events
+- #### Feedback on events this year
 - #### Your thoughts on events with other societies
 - #### Other Suggestions
 - #### Looking ahead to the future
 
 ## The split between Academic and Social Events
 
-Test:
 ![Alt Text](./GaussianDistribution.png "Look at this sexy bell curve")
 
 This was a surprisingly good result - I mean, look at those sexy curves on that almost-Gaussian-Distribution! This was something we were initially somewhat concerned with, as we've previously heard complaints (from both sides) before. However, it looks like our concerns were unfounded......
 
 On a more serious note, we'll continue to work hard to bring you a large range of both social and academic events this upcoming year, so stay tuned!
 
-## Your Favourite Events (and why)
+## Events this year
 
-__Bar Nights__ were by far the most popular events - with over 80 responses mentioning either a specific bar night or all of them collectively. This was a *shocking* revelation to us as we would never have expected that large quantities of free alcohol could be so incredibly popular amongst university students. We're glad that DoCSoc's bar nights have gained the popularity and legendary reputation that they have; in fact the College Union has now asked us to switch our venue to Metric due to the large volumes of people who attend. Our commitment to getting you alcohol will not waver, and you can expect the very same high quality bar nights this year!
+__Bar Nights__ were by far the most popular events - with over 80 responses mentioning either a specific bar night or all of them collectively. This was a *shocking* revelation to us as we would never have expected that large quantities of free alcohol could be so incredibly popular amongst university students. We're glad that DoCSoc's bar nights have gained the popularity and legendary reputation that they have; in fact the College Union has now asked us to switch our venue to Metric due to the large volumes of attendees. Our commitment to getting you alcohol will not waver, and you can expect the very same high quality bar nights this year!
+
+At the same, Bar Nights were _also_ the most disliked, with over 30 people putting them down as their least favourite event:
+_"Im not that interested in drinking."_
+_"Boring as most club and societies do this already"_
+_"Union bar is too overcrowded and the service is incredibly slow"_
+_"Too many dudes"_
+_"bar nights and alcohol arent really my thing!"_
+_"I don't drink"_
+_"dont like going to pubs"_
+
+That said, some of the "Least favourite" reasons were:
+_"Had too much to drink :"_
+_"I died (was lit otherwise)"_
 
 **ICHack** was by far the most expensive event and took months of preparation from the committee, and it's good to see that our hard work has been appreciated with the hackathon being voted to 2nd place. Our ambitions were very high this year, going from a measly 150 attendees in the previous ICHack to a staggering 335, so we're _really_ happy that you guys enjoyed it as much as the committee almost died organizing.
 
@@ -40,6 +51,6 @@ _"God organization"_
 
 _"Lit af"_
 
- Thanks guy <3
+ Thanks guys <3
 
  
