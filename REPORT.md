@@ -7,10 +7,10 @@ Anyways, we'd just like to take this chance to show you the results and talk abo
 
 # Table of Contents
 - #### The split between Academic and Social Events 
-- #### Feedback on events this year
-- #### Your thoughts on events with other societies
-- #### Other Suggestions
-- #### Looking ahead to the future
+- #### Events this year
+- #### Joint Society Events
+- #### Other Suggestions and Misc.
+- #### Looking Ahead
 
 ## The split between Academic and Social Events
 
@@ -148,7 +148,7 @@ ___
 
 ___
 
-**Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to make the workships this year more engaging and valuable.
+**Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to improve and restructure these workshops to make them more engaging and valuable this year.
 
 ___
 
@@ -171,4 +171,6 @@ _"Pub Crawl"_
 
 ....dude, what pub crawl are you on about? We've never had a DoCSoc pub crawl...
 
- 
+## Joint Society Events 
+
+
