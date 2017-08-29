@@ -184,4 +184,46 @@ Hence it goes without saying that we're going to look into this a lot more. That
 
 (insert stuff about difficult to organize here)
 
-The above issues don't mean we won'try, it just means we'll be proceeding quite carefully in order to not waste DoCSoc $$$ and manpower. For example, we may start with smaller, relatively inexpensive social events (so, not Bar Nights) and see how popular they are.
+The above issues don't mean we won'try, it just means **we'll be proceeding quite carefully in order to not waste DoCSoc $$$ and manpower - we will likely trialing events with other societies with relatively inexpensive social events (so, not Bar Nights) and see how popular they are before becoming more ambitious.**
+
+## Other Suggestions and Misc.
+
+Many of the suggestions we've received have already been addressed somewhere above, but for those that didnt:
+
+_"Being more transparent with what is going on, not just on the commitee, but with how each event went"_
+
+Well, I hope this whole report is a good start. We're looking to become more active with our blog this year, with content from anything ranging from post-event writeups to sponsorship news, so hopefully this answers your request.
+
+_"More diversity for companies coming to engage the students (e.g. game developers, social media)"_
+
+Though we can't tell you who are sponsors this upcoming year are quite yet, we've contacted 239 companies with from various fields and backgrounds this year, so stay tuned...
+
+_"Get the hoodies and other clothing items out way sooner"_
+
+This was something we were thinking of as well. Espescially with the next batch of freshers coming in soon, it does make sense to get them out a tad bit earlier.
+
+_"Take more personal feedback not general forms"_
+
+Feel free to drop us an email at docsoc@imperial.ac.uk
+
+_"Have more workshops such as the webdev one"_
+
+Noted. We'll discuss this.
+
+_"More food-based activities rather than alcohol-based"_
+
+We hope you came to the BBQ! Now that we've bought ourselves a grill, doing more of these is definitely something we have in mind.
+
+_"Organize more graduate student events"_
+
+We believe most of our events are appropriate for both undergraduate and graduate students - but if you disagree with us, drop us an email and tell us why!
+
+_"Laptop spots in labs with VGA/HDMI inputs and keyboard/mouse available"_
+
+Forwarded to the Departmental Representatives.\
+
+_"More academia focused events"_
+
+Also something we're working on. See: Looking Ahead.
+
+
