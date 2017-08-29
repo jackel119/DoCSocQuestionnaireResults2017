@@ -173,4 +173,15 @@ _"Pub Crawl"_
 
 ## Joint Society Events 
 
+Events with other societies are something that DoCSoc have never really pushed for before, but your responses indicate that there is significant interest in these:
 
+
+![Alt Text](./JointSocEvents.png "I bet you all just want to meet girls")
+
+Hence it goes without saying that we're going to look into this a lot more. That said, the reality is not so simple as merely hosting more events with other Socs just because we feel like it - with Joint-Soc Events, comes Joint-Soc problems.
+
+**Good events are not cheap**, and most other societies **do not have the money that we do**. For example, our Bar Nights are expensive. They range anywhere from £2000 to £4000, and if we were to invite another society along, this cost would likely double. The committee believes that it is not within our interests to use DoCSoc sponsorship funds on non-DoCSoc members, and so this would require either the other society to cover their share of the expenses, or their members to pay for a ticket. This essentially takes away a large proportion of the incentive for other society members to attend, considering that there are likely already many reasons members of other societies may not want to participate in co-society events i.e. clashing exam/coursework timetables during term-time.
+
+(insert stuff about difficult to organize here)
+
+The above issues don't mean we won'try, it just means we'll be proceeding quite carefully in order to not waste DoCSoc $$$ and manpower. For example, we may start with smaller, relatively inexpensive social events (so, not Bar Nights) and see how popular they are.
