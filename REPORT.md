@@ -53,6 +53,7 @@ _"Had too much to drink :("_
 _"I died (was lit otherwise)"_
 
 **It's no surprise that the Bar Nights are the most controversial events - after all, we're a very diverse community of people ranging from raging alcoholics to complete teetolers. The serious criticisms of the Bar Nights fall into one of two categories: either the lack of interest in drinking, or the venue being too busy. After much debate, we've come to the consensus that the frequency of bar nights are in a good spot right now, and we will keep the number of bar nights for this upcoming year the same as last year. This doesn't mean that we're not listening to the non-drinkers; we believe we can up our game with non-alcohol social events this year without affecting the quality of the Bar Nights which are beloved by many others. We'd also like to mention that this year we'll be moving to Metric for our main Bar Nights. This should hopefully solve or mitigate a lot of issues with the congestion and long bar queues.**
+___
 
 **Revel** AKA **Cirque le Revel** AKA **Revel 2.0** was also another controversial event. This was our second year running Revel, and after the massive success and positive feedback we had from last year's Rooftop Revel, we had *a lot* to live up to.
 
@@ -86,8 +87,9 @@ _"Was too weird"_
 
 **Something else we're also taking in mind is the subsidy amount and availability of the tickets. Many DoCSoc members were unhappy that many tickets went out to +1s before they themselves had the chance to buy them, so we're considering implementing a new system that prioritizes DoCSoc members. We're still in the early stages of discussion, so nothing's for certain yet, but we are very keen on prioritising DoCSoc members whilst still having enough tickets for +1s. A budget increase for Revel has also been approved, which should also help a lot.**
 
+___
 
-# ICHack # was by far the most expensive event and took months of preparation from the committee, and it's good to see that our hard work has been appreciated with the hackathon being voted to 2nd place. Our ambitions were very high this year, going from a measly 150 attendees in the previous ICHack to a staggering 335, so we're _really_ happy that you guys enjoyed it as much as the committee and organizers almost died running it.
+**ICHack** was by far the most expensive event and took months of preparation from the committee, and it's good to see that our hard work has been appreciated with the hackathon being voted to 2nd place. Our ambitions were very high this year, going from a measly 150 attendees in the previous ICHack to a staggering 335, so we're _really_ happy that you guys enjoyed it as much as the committee and organizers almost died running it.
 
 _"It was organised extremely well and was really fun"_
 
@@ -112,6 +114,8 @@ _"Lit af"_
 
 Tieing in with the above point, the only venue we could get that would give allow us to host such a large amount of people, and not cost every committee member their kidneys, was on College Campus. In regards to the meal, we weren't allowed to do use external catering this previous year, but we're hoping to change that this year, so hopefully food should be much improved.
 
+___
+
 Our **Sponsored Talks and Workshops** were also overall well received. In particular, the **Palantir Startup** and **Netcraft Phishing for Fun and Profit** seemed to be particularly well-liked.
 
 _"Really interactive"_
@@ -134,12 +138,37 @@ _"Config files are boring"_
 
 _"Speaker was not very good - more of an advertisement than a technical/academic talk"_
 
-_"I fell behind and was unable to catch up due to teh format of the presentation. It seemed liek others had similar issues with falling behind. I still gained something from it but it would have been nice if there was more information about how the systems worked rather than being so focused on configuring it quickly to get it working"_
+_"I fell behind and was unable to catch up due to teh format of the presentation. It seemed like others had similar issues with falling behind. I still gained something from it but it would have been nice if there was more information about how the systems worked rather than being so focused on configuring it quickly to get it working"_
 
-This category of events is a difficult one for us to work on, as the events themselves are run by our sponsors. We're happy that overall people seemed to enjoy them, however we've also passed on feedback onto our sponsors in order for them to provide a better experience for our students during their workshops and talks this year.
+**This category of events is a difficult one for us to work on, as the events themselves are run by our sponsors. We're happy that overall people seemed to enjoy them, however we've also passed on feedback onto our sponsors in order for them to provide a better experience for our students during their workshops and talks this year.**
+
+___
+
+**Ice Skating** was also _extremely_ well received - many praised the large discounts and the opportunity to relax and socialise with others in the context of enjoying a seasonal activity. We're looking to do more of these social events this year, see the Looking Ahead section.
+
+__
+
+**Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to make the workships this year more engaging and valuable.
+
+___
+We also received some......_interesting_ responses about events:
 
 
+_"Corporate presentations without pizza"_
+
+All of our events have pizza. You must be thinking of the DoC ACI talks. Not DoCSoc.
+
+_"All DoCSoc events, because THE RATIO"_
+
+Try Tinder, bud.
+
+_"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_
+
+Glad to know we've got friends in the Business school.
 
 
+_"Pub Crawl"_
+
+....dude, what pub crawl are you on about? We've never had a DoCSoc pub crawl...
 
  
