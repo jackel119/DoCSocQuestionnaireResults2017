@@ -22,7 +22,13 @@ On a more serious note, we'll continue to work hard to bring you a large range o
 
 ## Events this year
 
-__Bar Nights__ were by far the most popular events - with over 80 responses mentioning either a specific bar night or all of them collectively. This was a *shocking* revelation to us as we would never have expected that large quantities of free alcohol could be so incredibly popular amongst university students. We're glad that DoCSoc's bar nights have gained the popularity and legendary reputation that they have; in fact the College Union has now asked us to switch our venue to Metric due to the large volumes of attendees. Our commitment to getting you alcohol will not waver, and you can expect the very same high quality bar nights this year!
+__Bar Nights__ were by far the most popular events - with over 80 responses mentioning either a specific bar night or all of them collectively. This was a *shocking* revelation to us as we would never have expected that large quantities of free alcohol could be so incredibly popular amongst university students. We're glad that DoCSoc's bar nights have gained the popularity and legendary reputation that they have; in fact the College Union has now asked us to switch our venue to Metric due to the large volumes of attendees.
+
+_"Bevs"_
+
+_"Good chance to meet new people from the course and from other years"_
+
+_"A chance to sit down with friends that I otherwise only see in lectures"_
 
 At the same, Bar Nights were _also_ the most disliked, with over 30 people putting them down as their least favourite event:
 
@@ -105,6 +111,33 @@ _"Lit af"_
  _"I didn't like that it was held at uni, made me feel like I was just spending a weekend in the place I want to get  away from. Also I didn't like any of the meals...except dominoes "_
 
 Tieing in with the above point, the only venue we could get that would give allow us to host such a large amount of people, and not cost every committee member their kidneys, was on College Campus. In regards to the meal, we weren't allowed to do use external catering this previous year, but we're hoping to change that this year, so hopefully food should be much improved.
+
+Our **Sponsored Talks and Workshops** were also overall well received. In particular, the **Palantir Startup** and **Netcraft Phishing for Fun and Profit** seemed to be particularly well-liked.
+
+_"Really interactive"_
+
+_"Fun and mostly accessible"_
+
+_"An interesting coding challenge"_
+
+_"The talk was very interactive and very interesting"_
+
+_"Nice and short workshop"_
+
+_"Fun workshop with an insight into their company, free food + bar night was cool as well"_
+
+And amongst the criticisms we had:
+
+_"Too much set-up for the workshop, task seemed very long and wasn't particularly engaging"_
+
+_"Config files are boring"_
+
+_"Speaker was not very good - more of an advertisement than a technical/academic talk"_
+
+_"I fell behind and was unable to catch up due to teh format of the presentation. It seemed liek others had similar issues with falling behind. I still gained something from it but it would have been nice if there was more information about how the systems worked rather than being so focused on configuring it quickly to get it working"_
+
+This category of events is a difficult one for us to work on, as the events themselves are run by our sponsors. We're happy that overall people seemed to enjoy them, however we've also passed on feedback onto our sponsors in order for them to provide a better experience for our students during their workshops and talks this year.
+
 
 
 
