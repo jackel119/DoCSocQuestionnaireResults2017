@@ -146,7 +146,7 @@ ___
 
 **Ice Skating** was also _extremely_ well received - many praised the large discounts and the opportunity to relax and socialise with others in the context of enjoying a seasonal activity. We're looking to do more of these social events this year, see the Looking Ahead section.
 
-__
+___
 
 **Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to make the workships this year more engaging and valuable.
 
