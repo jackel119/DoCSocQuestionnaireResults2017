@@ -151,6 +151,7 @@ __
 **Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to make the workships this year more engaging and valuable.
 
 ___
+
 We also received some......_interesting_ responses about events:
 
 
@@ -165,8 +166,6 @@ Try Tinder, bud.
 _"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_
 
 Glad to know we've got friends in the Business school.
-
-___
 
 _"Pub Crawl"_
 
