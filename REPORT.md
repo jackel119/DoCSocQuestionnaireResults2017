@@ -155,19 +155,19 @@ ___
 We also received some......_interesting_ responses about events:
 
 
-_"Corporate presentations without pizza"_
+**_"Corporate presentations without pizza"_**
 
 All of our events have pizza. You must be thinking of the DoC ACI talks. Not DoCSoc.
 
-_"All DoCSoc events, because THE RATIO"_
+**_"All DoCSoc events, because THE RATIO"_**
 
 Try Tinder, bud.
 
-_"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_
+**_"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_**
 
 Glad to know we've got friends in the Business school.
 
-_"Pub Crawl"_
+**_"Pub Crawl"_**
 
 ....dude, what pub crawl are you on about? We've never had a DoCSoc pub crawl...
 
@@ -181,6 +181,8 @@ Events with other societies are something that DoCSoc have never really pushed f
 Hence it goes without saying that we're going to look into this a lot more. That said, the reality is not so simple as merely hosting more events with other Socs just because we feel like it - with Joint-Soc Events, comes Joint-Soc problems.
 
 **Good events are not cheap**, and most other societies **do not have the money that we do**. For example, our Bar Nights are expensive. They range anywhere from £2000 to £4000, and if we were to invite another society along, this cost would likely double. The committee believes that it is not within our interests to use DoCSoc sponsorship funds on non-DoCSoc members, and so this would require either the other society to cover their share of the expenses, or their members to pay for a ticket. This essentially takes away a large proportion of the incentive for other society members to attend, considering that there are likely already many reasons members of other societies may not want to participate in co-society events i.e. clashing exam/coursework timetables during term-time.
+
+DoCSoc's reputation is amongst the largest of any society at Imperial, and because of this we also have concerns regarding other societies expecting us to carry them in any potential joint ventures. In the past, we have had a certain student organisation propose that we cover 70% of the expenses for the event, whilst only getting a third of the tickets.
 
 (insert stuff about difficult to organize here)
 
@@ -226,4 +228,9 @@ Forwarded to the Departmental Representatives.
 
 Also something we're working on. See: Looking Ahead.
 
+**_"Stock the kitchen"_**
+
+## Looking Ahead
+
+As we head into the next year, DoCSoc is a
 
