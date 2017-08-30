@@ -228,9 +228,12 @@ Forwarded to the Departmental Representatives.
 
 Also something we're working on. See: Looking Ahead.
 
-**_"Stock the kitchen"_**
-
 ## Looking Ahead
 
-As we head into the next year, DoCSoc is a
+As we head into the next year, DoCSoc is excited to announce a few changes:
 
+- As part of our initiative to reduce costs, DoCSoc will no longer be providing pizza. Instead, all events will now come with a selection of Tesco's Meal Deals.
+
+- We're just kidding. Pizza will still be provided, but after some serious trialing, we've decided to part ways with Domino's and go with Papa John's.
+
+-
