@@ -155,19 +155,19 @@ ___
 We also received some......_interesting_ responses about events:
 
 
-**_"Corporate presentations without pizza"_**
+Least Favourite Event : **_"Corporate presentations without pizza"_**
 
 All of our events have pizza. You must be thinking of the DoC ACI talks. Not DoCSoc.
 
-**_"All DoCSoc events, because THE RATIO"_**
+Least Favourite Event: **_"All DoCSoc events, because THE RATIO"_**
 
 Try Tinder, bud.
 
-**_"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_**
+Least Favourite Event: **_"ones about computers - I do not know about that stuff. I can use microsoft pretty well and that's it"_**
 
 Glad to know we've got friends in the Business school.
 
-**_"Pub Crawl"_**
+Favourite Event: **_"Pub Crawl"_**
 
 ....dude, what pub crawl are you on about? We've never had a DoCSoc pub crawl...
 
@@ -236,4 +236,6 @@ As we head into the next year, DoCSoc is excited to announce a few changes:
 
 - We're just kidding. Pizza will still be provided, but after some serious trialing, we've decided to part ways with Domino's and go with Papa John's.
 
--
+- **Attendance statistics** is something we'd like to start looking more into this year. We're still in the early stages of discussion, but the leading concept is a system where attendees tap into events with their College IDs (those who wish not to will still be permitted entry). The data collected will be used by the committee in analyzing which events are popular and various other data-sciencey stuff which I don't really know yet.
+
+
