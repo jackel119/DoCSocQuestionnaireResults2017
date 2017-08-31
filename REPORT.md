@@ -9,7 +9,6 @@ Anyways, we'd just like to take this chance to show you the results and talk abo
 - #### Events this year
 - #### Joint Society Events
 - #### Other Suggestions and Misc.
-- #### Looking Ahead
 
 ## The split between Academic and Social Events
 
@@ -142,12 +141,12 @@ _I fell behind and was unable to catch up due to the format of the presentation.
 This category of events is a difficult one for us to work on, as the events themselves are run by our sponsors. We're happy that overall people seemed to enjoy them, however we've also passed on feedback onto our sponsors in order for them to provide a better experience for our students during their workshops and talks this year.
 
 ### Ice Skating
-**Ice Skating** was also _extremely_ well received - many praised the large discounts and the opportunity to relax and socialise with others in the context of enjoying a seasonal activity. We're looking to do more of these social events this year, see the Looking Ahead section.
+**Ice Skating** was also _extremely_ well received - many praised the large discounts and the opportunity to relax and socialise with others in the context of enjoying a seasonal activity. We're looking to do more of these social events this year, stay tuned.
 
 ### Web Development Workshops
 **Web Development Workshops** were something that we tried running for the first time this year, and we've had feedback ranging from extremely positive to, well, dull. We understood that it initially had a lot of momentum starting out, but fizzled out after the first few lectures due to lack of organization, poor attendence and slow pacing. We're hoping to use the lessons we've learnt to improve and restructure these workshops to make them more engaging and valuable this year.
 
-__
+___
 
 We also received some&hellip; _interesting_ responses about events:
 
@@ -221,16 +220,10 @@ _Laptop spots in labs with VGA/HDMI inputs and keyboard/mouse available_
 
 Forwarded to the Departmental Representatives.
 
-_More academia focused events
+_More academia focused events_
 
-Also something we're working on. See: Looking Ahead.
+Also something we're working on. Once again, stay tuned.
 
-## Looking Ahead
+___
 
-As we head into the next year, DoCSoc is excited to announce a few changes:
-
-As part of our initiative to reduce costs, DoCSoc will no longer be providing pizza. Instead, all events will now come with a selection of Tesco's Meal Deals.
-
-&hellip; of course we're just kidding. Pizza will still be provided, but after some serious trialling, we've decided to part ways with Domino's and go with Papa John's.
-
-**Attendance statistics** are something we'd like to start looking more into this year. We're still in the early stages of discussion, but the leading concept is a system where attendees tap into events with their College IDs (those who wish not to will still be permitted entry). The data collected will be used by the committee in analyzing which events are popular and various other data-sciencey stuff which I don't really know yet.
+That's all we wanted to say for now. In the coming weeks we'll also be letting you know of a few more changes and updates to DoCSoc this year, so stay tuned for that.
